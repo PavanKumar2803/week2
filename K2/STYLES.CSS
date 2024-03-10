@@ -1,0 +1,61 @@
+/* Reset default margin and padding */
+h1, h2, p, ul {
+    margin: 0;
+    padding: 0;
+
+}
+
+/* Basic styling for the header */
+header {
+   background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    background-image: url(https://wallpapercave.com/wp/wp2635770.jpg);
+}
+
+/* Basic styling for navigation */
+nav {
+    background-color: #444;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+body{
+   background-color: beige;
+}
+
+
+main {
+    padding: 20px;
+}
+
+section {
+    
+    
+    margin-bottom: 20px;
+}
+
+/* Basic styling for the footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+img{
+    width: 400px;
+}
